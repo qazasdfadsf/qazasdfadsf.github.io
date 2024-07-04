@@ -4,31 +4,6 @@
   
     
     <entry>
-      <title>计算机专业学习指南</title>
-      <link href="/2024/06/28/cs%E5%AD%A6%E4%B9%A0%E6%8C%87%E5%8D%97/"/>
-      <url>/2024/06/28/cs%E5%AD%A6%E4%B9%A0%E6%8C%87%E5%8D%97/</url>
-      
-        <content type="html"><![CDATA[<h1 id="计算机专业学习指南"><a href="#计算机专业学习指南" class="headerlink" title="计算机专业学习指南"></a>计算机专业学习指南</h1><p>计算机专业是一门既具挑战性又充满机遇的学科。通过系统的学习，学生可以掌握从基础理论到前沿技术的广泛知识，具备解决实际问题的能力。以下是计算机专业学习的系统介绍和建议。</p><h2 id="基础知识"><a href="#基础知识" class="headerlink" title="基础知识"></a>基础知识</h2><h3 id="1-计算机科学基础"><a href="#1-计算机科学基础" class="headerlink" title="1. 计算机科学基础"></a>1. 计算机科学基础</h3><ul><li><p><strong>数据结构与算法:</strong></p><ul><li>学习基本的数据结构（如数组、链表、栈、队列、树、图等）。</li><li>掌握常见算法（如排序、搜索、动态规划、贪心算法等），并进行算法练习。</li></ul></li><li><p><strong>计算机组成原理:</strong></p><ul><li>了解计算机的基本组成部分及其工作原理。</li><li>学习二进制、补码、逻辑电路等基础知识。</li></ul></li><li><p><strong>操作系统:</strong></p><ul><li>学习操作系统的基本概念，如进程管理、内存管理、文件系统等。</li><li>了解常见操作系统（如Linux、Windows）的基本使用。</li></ul></li></ul><h3 id="2-编程语言"><a href="#2-编程语言" class="headerlink" title="2. 编程语言"></a>2. 编程语言</h3><ul><li><p><strong>C/C++:</strong></p><ul><li>学习C/C++的语法和基本编程技巧。</li><li>进行项目实践，掌握面向对象编程的概念。</li></ul></li><li><p><strong>Python:</strong></p><ul><li>掌握Python的语法和常用库（如NumPy、Pandas、Matplotlib等）。</li><li>进行数据分析和机器学习的基础实践。</li></ul></li><li><p><strong>Java:</strong></p><ul><li>学习Java的语法和面向对象编程。</li><li>了解Java在企业级开发中的应用。</li></ul></li></ul><h2 id="进阶知识"><a href="#进阶知识" class="headerlink" title="进阶知识"></a>进阶知识</h2><h3 id="1-数据库"><a href="#1-数据库" class="headerlink" title="1. 数据库"></a>1. 数据库</h3><ul><li><p><strong>关系型数据库:</strong></p><ul><li>学习SQL语法，掌握数据库设计和查询优化。</li><li>了解常见关系型数据库（如MySQL、PostgreSQL）的使用。</li></ul></li><li><p><strong>非关系型数据库:</strong></p><ul><li>了解NoSQL数据库的基本概念和应用场景。</li><li>学习常见NoSQL数据库（如MongoDB、Redis）的使用。</li></ul></li></ul><h3 id="2-计算机网络"><a href="#2-计算机网络" class="headerlink" title="2. 计算机网络"></a>2. 计算机网络</h3><ul><li><p><strong>网络基础:</strong></p><ul><li>学习计算机网络的基本概念和协议（如TCP/IP、HTTP等）。</li><li>了解网络分层模型和常见网络设备。</li></ul></li><li><p><strong>网络编程:</strong></p><ul><li>学习Socket编程，掌握网络通信的基本实现。</li><li>进行网络项目的实践，如开发简单的聊天室或文件传输程序。</li></ul></li></ul><h3 id="3-软件工程"><a href="#3-软件工程" class="headerlink" title="3. 软件工程"></a>3. 软件工程</h3><ul><li><p><strong>开发流程:</strong></p><ul><li>了解软件开发的生命周期和常见开发模型（如瀑布模型、敏捷开发）。</li><li>学习需求分析、设计、实现、测试和维护的基本过程。</li></ul></li><li><p><strong>项目管理:</strong></p><ul><li>学习项目管理的基本方法和工具（如Git、JIRA）。</li><li>掌握团队协作和项目进度管理的技巧。</li></ul></li></ul><h2 id="前沿技术"><a href="#前沿技术" class="headerlink" title="前沿技术"></a>前沿技术</h2><h3 id="1-人工智能与机器学习"><a href="#1-人工智能与机器学习" class="headerlink" title="1. 人工智能与机器学习"></a>1. 人工智能与机器学习</h3><ul><li><p><strong>基础理论:</strong></p><ul><li>学习机器学习的基本概念和算法（如回归、分类、聚类、神经网络等）。</li><li>了解深度学习的基础知识和常用框架（如TensorFlow、PyTorch）。</li></ul></li><li><p><strong>实践应用:</strong></p><ul><li>进行机器学习项目的实践，如图像识别、自然语言处理等。</li><li>掌握数据预处理、模型训练和评估的方法。</li></ul></li></ul><h3 id="2-大数据"><a href="#2-大数据" class="headerlink" title="2. 大数据"></a>2. 大数据</h3><ul><li><p><strong>基础知识:</strong></p><ul><li>学习大数据的基本概念和技术（如Hadoop、Spark）。</li><li>了解大数据处理的流程和方法。</li></ul></li><li><p><strong>数据分析:</strong></p><ul><li>掌握大数据分析的基本工具和技术（如Hive、Pig）。</li><li>进行数据挖掘和数据可视化的实践。</li></ul></li></ul><h3 id="3-云计算"><a href="#3-云计算" class="headerlink" title="3. 云计算"></a>3. 云计算</h3><ul><li><p><strong>云服务:</strong></p><ul><li>了解云计算的基本概念和服务模型（如IaaS、PaaS、SaaS）。</li><li>学习常见云服务平台（如AWS、Azure、Google Cloud）的使用。</li></ul></li><li><p><strong>容器技术:</strong></p><ul><li>掌握Docker的基本使用和容器化应用的部署。</li><li>学习Kubernetes的基础知识和集群管理。</li></ul></li></ul><h2 id="学习资源"><a href="#学习资源" class="headerlink" title="学习资源"></a>学习资源</h2><h3 id="1-在线课程"><a href="#1-在线课程" class="headerlink" title="1. 在线课程"></a>1. 在线课程</h3><ul><li><strong>Coursera:</strong> 提供多种计算机科学和技术课程。</li><li><strong>edX:</strong> 提供来自顶尖大学的计算机科学课程。</li><li><strong>Udemy:</strong> 提供各类编程和技术课程，适合不同层次的学习者。</li></ul><h3 id="2-编程练习"><a href="#2-编程练习" class="headerlink" title="2. 编程练习"></a>2. 编程练习</h3><ul><li><strong>LeetCode:</strong> 提供丰富的算法和编程练习题。</li><li><strong>HackerRank:</strong> 提供编程挑战和竞赛，提高编程能力。</li><li><strong>CodeWars:</strong> 提供各种编程挑战，帮助提升编程技巧。</li></ul><h3 id="3-技术博客和社区"><a href="#3-技术博客和社区" class="headerlink" title="3. 技术博客和社区"></a>3. 技术博客和社区</h3><ul><li><strong>Stack Overflow:</strong> 编程问答社区，解决技术问题的好去处。</li><li><strong>GitHub:</strong> 开源项目托管平台，学习和参与开源项目。</li><li><strong>Medium:</strong> 技术博客平台，获取最新的技术文章和教程。</li></ul><h2 id="总结"><a href="#总结" class="headerlink" title="总结"></a>总结</h2><p>计算机专业的学习需要系统的规划和不断的实践。通过学习基础知识、进阶知识和前沿技术，学生可以全面掌握计算机科学的各个方面。同时，利用各种学习资源和平台，进行实践和项目开发，可以进一步提升自己的能力。希望这篇指南能帮助大家高效学习计算机专业知识，取得更好的学习成果。</p>]]></content>
-      
-      
-      <categories>
-          
-          <category> 杂谈教程 </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> 计算机, 学习指南, 编程, 计算机科学, 学习资源 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>杜甫</title>
       <link href="/2024/06/28/dufu/"/>
       <url>/2024/06/28/dufu/</url>
@@ -54,23 +29,23 @@
     
     
     <entry>
-      <title>Emily Dickinson</title>
-      <link href="/2024/06/28/emily/"/>
-      <url>/2024/06/28/emily/</url>
+      <title>计算机专业学习指南</title>
+      <link href="/2024/06/28/cs%E5%AD%A6%E4%B9%A0%E6%8C%87%E5%8D%97/"/>
+      <url>/2024/06/28/cs%E5%AD%A6%E4%B9%A0%E6%8C%87%E5%8D%97/</url>
       
-        <content type="html"><![CDATA[<h3 id="艾米莉·狄金森的生平"><a href="#艾米莉·狄金森的生平" class="headerlink" title="艾米莉·狄金森的生平"></a>艾米莉·狄金森的生平</h3><p>艾米莉·狄金森（Emily Dickinson），1830年出生于美国，是美国文学史上最重要的诗人之一。狄金森一生大部分时间都在家乡度过，写下了近1800首诗歌。她的作品以其独特的视角和精炼的语言而著称，探讨了生命、死亡和永恒等主题。</p><h3 id="名作《Because-I-could-not-stop-for-Death》"><a href="#名作《Because-I-could-not-stop-for-Death》" class="headerlink" title="名作《Because I could not stop for Death》"></a>名作《Because I could not stop for Death》</h3><p>《Because I could not stop for Death》是狄金森的代表作之一。这首诗通过与“死亡”的拟人化对话，探讨了生与死的关系以及对永恒的追寻。诗中的语调平静而深沉，表现了狄金森对生命和死亡的独特理解和思考。</p>]]></content>
+        <content type="html"><![CDATA[<h1 id="计算机专业学习指南"><a href="#计算机专业学习指南" class="headerlink" title="计算机专业学习指南"></a>计算机专业学习指南</h1><p>计算机专业是一门既具挑战性又充满机遇的学科。通过系统的学习，学生可以掌握从基础理论到前沿技术的广泛知识，具备解决实际问题的能力。以下是计算机专业学习的系统介绍和建议。</p><h2 id="基础知识"><a href="#基础知识" class="headerlink" title="基础知识"></a>基础知识</h2><h3 id="1-计算机科学基础"><a href="#1-计算机科学基础" class="headerlink" title="1. 计算机科学基础"></a>1. 计算机科学基础</h3><ul><li><p><strong>数据结构与算法:</strong></p><ul><li>学习基本的数据结构（如数组、链表、栈、队列、树、图等）。</li><li>掌握常见算法（如排序、搜索、动态规划、贪心算法等），并进行算法练习。</li></ul></li><li><p><strong>计算机组成原理:</strong></p><ul><li>了解计算机的基本组成部分及其工作原理。</li><li>学习二进制、补码、逻辑电路等基础知识。</li></ul></li><li><p><strong>操作系统:</strong></p><ul><li>学习操作系统的基本概念，如进程管理、内存管理、文件系统等。</li><li>了解常见操作系统（如Linux、Windows）的基本使用。</li></ul></li></ul><h3 id="2-编程语言"><a href="#2-编程语言" class="headerlink" title="2. 编程语言"></a>2. 编程语言</h3><ul><li><p><strong>C/C++:</strong></p><ul><li>学习C/C++的语法和基本编程技巧。</li><li>进行项目实践，掌握面向对象编程的概念。</li></ul></li><li><p><strong>Python:</strong></p><ul><li>掌握Python的语法和常用库（如NumPy、Pandas、Matplotlib等）。</li><li>进行数据分析和机器学习的基础实践。</li></ul></li><li><p><strong>Java:</strong></p><ul><li>学习Java的语法和面向对象编程。</li><li>了解Java在企业级开发中的应用。</li></ul></li></ul><h2 id="进阶知识"><a href="#进阶知识" class="headerlink" title="进阶知识"></a>进阶知识</h2><h3 id="1-数据库"><a href="#1-数据库" class="headerlink" title="1. 数据库"></a>1. 数据库</h3><ul><li><p><strong>关系型数据库:</strong></p><ul><li>学习SQL语法，掌握数据库设计和查询优化。</li><li>了解常见关系型数据库（如MySQL、PostgreSQL）的使用。</li></ul></li><li><p><strong>非关系型数据库:</strong></p><ul><li>了解NoSQL数据库的基本概念和应用场景。</li><li>学习常见NoSQL数据库（如MongoDB、Redis）的使用。</li></ul></li></ul><h3 id="2-计算机网络"><a href="#2-计算机网络" class="headerlink" title="2. 计算机网络"></a>2. 计算机网络</h3><ul><li><p><strong>网络基础:</strong></p><ul><li>学习计算机网络的基本概念和协议（如TCP/IP、HTTP等）。</li><li>了解网络分层模型和常见网络设备。</li></ul></li><li><p><strong>网络编程:</strong></p><ul><li>学习Socket编程，掌握网络通信的基本实现。</li><li>进行网络项目的实践，如开发简单的聊天室或文件传输程序。</li></ul></li></ul><h3 id="3-软件工程"><a href="#3-软件工程" class="headerlink" title="3. 软件工程"></a>3. 软件工程</h3><ul><li><p><strong>开发流程:</strong></p><ul><li>了解软件开发的生命周期和常见开发模型（如瀑布模型、敏捷开发）。</li><li>学习需求分析、设计、实现、测试和维护的基本过程。</li></ul></li><li><p><strong>项目管理:</strong></p><ul><li>学习项目管理的基本方法和工具（如Git、JIRA）。</li><li>掌握团队协作和项目进度管理的技巧。</li></ul></li></ul><h2 id="前沿技术"><a href="#前沿技术" class="headerlink" title="前沿技术"></a>前沿技术</h2><h3 id="1-人工智能与机器学习"><a href="#1-人工智能与机器学习" class="headerlink" title="1. 人工智能与机器学习"></a>1. 人工智能与机器学习</h3><ul><li><p><strong>基础理论:</strong></p><ul><li>学习机器学习的基本概念和算法（如回归、分类、聚类、神经网络等）。</li><li>了解深度学习的基础知识和常用框架（如TensorFlow、PyTorch）。</li></ul></li><li><p><strong>实践应用:</strong></p><ul><li>进行机器学习项目的实践，如图像识别、自然语言处理等。</li><li>掌握数据预处理、模型训练和评估的方法。</li></ul></li></ul><h3 id="2-大数据"><a href="#2-大数据" class="headerlink" title="2. 大数据"></a>2. 大数据</h3><ul><li><p><strong>基础知识:</strong></p><ul><li>学习大数据的基本概念和技术（如Hadoop、Spark）。</li><li>了解大数据处理的流程和方法。</li></ul></li><li><p><strong>数据分析:</strong></p><ul><li>掌握大数据分析的基本工具和技术（如Hive、Pig）。</li><li>进行数据挖掘和数据可视化的实践。</li></ul></li></ul><h3 id="3-云计算"><a href="#3-云计算" class="headerlink" title="3. 云计算"></a>3. 云计算</h3><ul><li><p><strong>云服务:</strong></p><ul><li>了解云计算的基本概念和服务模型（如IaaS、PaaS、SaaS）。</li><li>学习常见云服务平台（如AWS、Azure、Google Cloud）的使用。</li></ul></li><li><p><strong>容器技术:</strong></p><ul><li>掌握Docker的基本使用和容器化应用的部署。</li><li>学习Kubernetes的基础知识和集群管理。</li></ul></li></ul><h2 id="学习资源"><a href="#学习资源" class="headerlink" title="学习资源"></a>学习资源</h2><h3 id="1-在线课程"><a href="#1-在线课程" class="headerlink" title="1. 在线课程"></a>1. 在线课程</h3><ul><li><strong>Coursera:</strong> 提供多种计算机科学和技术课程。</li><li><strong>edX:</strong> 提供来自顶尖大学的计算机科学课程。</li><li><strong>Udemy:</strong> 提供各类编程和技术课程，适合不同层次的学习者。</li></ul><h3 id="2-编程练习"><a href="#2-编程练习" class="headerlink" title="2. 编程练习"></a>2. 编程练习</h3><ul><li><strong>LeetCode:</strong> 提供丰富的算法和编程练习题。</li><li><strong>HackerRank:</strong> 提供编程挑战和竞赛，提高编程能力。</li><li><strong>CodeWars:</strong> 提供各种编程挑战，帮助提升编程技巧。</li></ul><h3 id="3-技术博客和社区"><a href="#3-技术博客和社区" class="headerlink" title="3. 技术博客和社区"></a>3. 技术博客和社区</h3><ul><li><strong>Stack Overflow:</strong> 编程问答社区，解决技术问题的好去处。</li><li><strong>GitHub:</strong> 开源项目托管平台，学习和参与开源项目。</li><li><strong>Medium:</strong> 技术博客平台，获取最新的技术文章和教程。</li></ul><h2 id="总结"><a href="#总结" class="headerlink" title="总结"></a>总结</h2><p>计算机专业的学习需要系统的规划和不断的实践。通过学习基础知识、进阶知识和前沿技术，学生可以全面掌握计算机科学的各个方面。同时，利用各种学习资源和平台，进行实践和项目开发，可以进一步提升自己的能力。希望这篇指南能帮助大家高效学习计算机专业知识，取得更好的学习成果。</p>]]></content>
       
       
       <categories>
           
-          <category> 诗词歌赋 </category>
+          <category> 杂谈教程 </category>
           
       </categories>
       
       
         <tags>
             
-            <tag> 艾米莉·狄金森, 诗人, 美国文学, 诗歌 </tag>
+            <tag> 计算机, 学习指南, 编程, 计算机科学, 学习资源 </tag>
             
         </tags>
       
@@ -104,23 +79,23 @@
     
     
     <entry>
-      <title>考研复习现状</title>
-      <link href="/2024/06/28/ky%E5%A4%8D%E4%B9%A0/"/>
-      <url>/2024/06/28/ky%E5%A4%8D%E4%B9%A0/</url>
+      <title>Emily Dickinson</title>
+      <link href="/2024/06/28/emily/"/>
+      <url>/2024/06/28/emily/</url>
       
-        <content type="html"><![CDATA[<h1 id="考研复习现状"><a href="#考研复习现状" class="headerlink" title="考研复习现状"></a>考研复习现状</h1><p>距离考研的日子越来越近了，我的复习也进入了最后的冲刺阶段。这段时间的复习进展和状态如下：</p><h2 id="复习进展"><a href="#复习进展" class="headerlink" title="复习进展"></a>复习进展</h2><h3 id="1-数学"><a href="#1-数学" class="headerlink" title="1. 数学"></a>1. 数学</h3><ul><li><p><strong>完成内容:</strong></p><ul><li>已经全面复习完了所有的数学基础知识，包括高等数学、线性代数和概率论。</li><li>做了大量的习题，尤其是历年真题，逐渐掌握了考试的题型和出题思路。</li></ul></li><li><p><strong>存在问题:</strong></p><ul><li>一些综合性较强的题目仍然感到吃力，需要进一步加强练习。</li><li>在时间紧迫的情况下，容易出现粗心大意的错误。</li></ul></li></ul><h3 id="2-英语"><a href="#2-英语" class="headerlink" title="2. 英语"></a>2. 英语</h3><ul><li><p><strong>完成内容:</strong></p><ul><li>每天坚持背单词，使用的是《考研英语词汇红宝书》。</li><li>阅读部分每天做2-3篇文章，来源于真题和模拟题。</li><li>完成了几篇写作练习，重点练习了大作文和小作文的模板。</li></ul></li><li><p><strong>存在问题:</strong></p><ul><li>阅读理解部分，长难句的理解仍然有些困难，需要更多练习。</li><li>写作部分，如何在有限时间内写出高质量的文章仍是挑战。</li></ul></li></ul><h3 id="3-政治"><a href="#3-政治" class="headerlink" title="3. 政治"></a>3. 政治</h3><ul><li><p><strong>完成内容:</strong></p><ul><li>系统复习了政治的各个模块，包括马原、毛中特、史纲和思修。</li><li>做了大量的选择题和分析题，逐步掌握了答题技巧。</li></ul></li><li><p><strong>存在问题:</strong></p><ul><li>对于一些哲学理论和历史事件的理解还不够透彻。</li><li>在背诵知识点时，容易遗忘，需要更多时间巩固记忆。</li></ul></li></ul><h3 id="4-专业课"><a href="#4-专业课" class="headerlink" title="4. 专业课"></a>4. 专业课</h3><ul><li><p><strong>完成内容:</strong></p><ul><li>已经详细复习了一遍专业课教材，做了大量的习题。</li><li>开始针对重点章节和高频考点进行深入复习和专项练习。</li></ul></li><li><p><strong>存在问题:</strong></p><ul><li>一些细节知识点记忆不牢固，需要反复复习。</li><li>需要加强对案例分析题的训练，提高答题的条理性和深度。</li></ul></li></ul><h2 id="复习状态"><a href="#复习状态" class="headerlink" title="复习状态"></a>复习状态</h2><h3 id="1-学习效率"><a href="#1-学习效率" class="headerlink" title="1. 学习效率"></a>1. 学习效率</h3><ul><li>总体学习效率较高，每天能够完成计划的学习任务。</li><li>有时会感到疲倦和注意力不集中，需要调整学习时间和方法。</li></ul><h3 id="2-心理状态"><a href="#2-心理状态" class="headerlink" title="2. 心理状态"></a>2. 心理状态</h3><ul><li>心态较为平稳，能够保持积极的学习态度。</li><li>偶尔会感到压力和焦虑，通过运动和休闲活动来缓解。</li></ul><h2 id="反思与改进"><a href="#反思与改进" class="headerlink" title="反思与改进"></a>反思与改进</h2><h3 id="1-改进措施"><a href="#1-改进措施" class="headerlink" title="1. 改进措施"></a>1. 改进措施</h3><ul><li><p><strong>数学:</strong></p><ul><li>加强综合题的练习，特别是对于自己薄弱环节的专项训练。</li><li>提高解题速度，减少粗心错误。</li></ul></li><li><p><strong>英语:</strong></p><ul><li>增加长难句的练习，多做一些专门的练习题。</li><li>强化写作练习，准备更多的写作模板和素材。</li></ul></li><li><p><strong>政治:</strong></p><ul><li>加深对哲学理论和历史事件的理解，可以通过多看一些相关的视频和资料。</li><li>增加背诵的频率和次数，加强记忆。</li></ul></li><li><p><strong>专业课:</strong></p><ul><li>针对细节知识点进行反复记忆和强化练习。</li><li>多做案例分析题，提高答题的条理性和逻辑性。</li></ul></li></ul><h3 id="2-调整计划"><a href="#2-调整计划" class="headerlink" title="2. 调整计划"></a>2. 调整计划</h3><ul><li>根据每天的学习进展和效率，灵活调整复习计划，确保各科复习的均衡。</li><li>保持良好的作息和饮食习惯，确保充足的休息和精力。</li></ul><p>通过这次记录和反思，我对自己的考研复习现状有了更清晰的认识。在接下来的时间里，我会根据这些问题和改进措施</p>]]></content>
+        <content type="html"><![CDATA[<h3 id="艾米莉·狄金森的生平"><a href="#艾米莉·狄金森的生平" class="headerlink" title="艾米莉·狄金森的生平"></a>艾米莉·狄金森的生平</h3><p>艾米莉·狄金森（Emily Dickinson），1830年出生于美国，是美国文学史上最重要的诗人之一。狄金森一生大部分时间都在家乡度过，写下了近1800首诗歌。她的作品以其独特的视角和精炼的语言而著称，探讨了生命、死亡和永恒等主题。</p><h3 id="名作《Because-I-could-not-stop-for-Death》"><a href="#名作《Because-I-could-not-stop-for-Death》" class="headerlink" title="名作《Because I could not stop for Death》"></a>名作《Because I could not stop for Death》</h3><p>《Because I could not stop for Death》是狄金森的代表作之一。这首诗通过与“死亡”的拟人化对话，探讨了生与死的关系以及对永恒的追寻。诗中的语调平静而深沉，表现了狄金森对生命和死亡的独特理解和思考。</p>]]></content>
       
       
       <categories>
           
-          <category> 个人日记 </category>
+          <category> 诗词歌赋 </category>
           
       </categories>
       
       
         <tags>
             
-            <tag> 考研复习, 学习, 个人日记, 反思 </tag>
+            <tag> 艾米莉·狄金森, 诗人, 美国文学, 诗歌 </tag>
             
         </tags>
       
@@ -146,6 +121,31 @@
         <tags>
             
             <tag> 李白, 诗人, 中国文学, 唐诗 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>考研复习现状</title>
+      <link href="/2024/06/28/ky%E5%A4%8D%E4%B9%A0/"/>
+      <url>/2024/06/28/ky%E5%A4%8D%E4%B9%A0/</url>
+      
+        <content type="html"><![CDATA[<h1 id="考研复习现状"><a href="#考研复习现状" class="headerlink" title="考研复习现状"></a>考研复习现状</h1><p>距离考研的日子越来越近了，我的复习也进入了最后的冲刺阶段。这段时间的复习进展和状态如下：</p><h2 id="复习进展"><a href="#复习进展" class="headerlink" title="复习进展"></a>复习进展</h2><h3 id="1-数学"><a href="#1-数学" class="headerlink" title="1. 数学"></a>1. 数学</h3><ul><li><p><strong>完成内容:</strong></p><ul><li>已经全面复习完了所有的数学基础知识，包括高等数学、线性代数和概率论。</li><li>做了大量的习题，尤其是历年真题，逐渐掌握了考试的题型和出题思路。</li></ul></li><li><p><strong>存在问题:</strong></p><ul><li>一些综合性较强的题目仍然感到吃力，需要进一步加强练习。</li><li>在时间紧迫的情况下，容易出现粗心大意的错误。</li></ul></li></ul><h3 id="2-英语"><a href="#2-英语" class="headerlink" title="2. 英语"></a>2. 英语</h3><ul><li><p><strong>完成内容:</strong></p><ul><li>每天坚持背单词，使用的是《考研英语词汇红宝书》。</li><li>阅读部分每天做2-3篇文章，来源于真题和模拟题。</li><li>完成了几篇写作练习，重点练习了大作文和小作文的模板。</li></ul></li><li><p><strong>存在问题:</strong></p><ul><li>阅读理解部分，长难句的理解仍然有些困难，需要更多练习。</li><li>写作部分，如何在有限时间内写出高质量的文章仍是挑战。</li></ul></li></ul><h3 id="3-政治"><a href="#3-政治" class="headerlink" title="3. 政治"></a>3. 政治</h3><ul><li><p><strong>完成内容:</strong></p><ul><li>系统复习了政治的各个模块，包括马原、毛中特、史纲和思修。</li><li>做了大量的选择题和分析题，逐步掌握了答题技巧。</li></ul></li><li><p><strong>存在问题:</strong></p><ul><li>对于一些哲学理论和历史事件的理解还不够透彻。</li><li>在背诵知识点时，容易遗忘，需要更多时间巩固记忆。</li></ul></li></ul><h3 id="4-专业课"><a href="#4-专业课" class="headerlink" title="4. 专业课"></a>4. 专业课</h3><ul><li><p><strong>完成内容:</strong></p><ul><li>已经详细复习了一遍专业课教材，做了大量的习题。</li><li>开始针对重点章节和高频考点进行深入复习和专项练习。</li></ul></li><li><p><strong>存在问题:</strong></p><ul><li>一些细节知识点记忆不牢固，需要反复复习。</li><li>需要加强对案例分析题的训练，提高答题的条理性和深度。</li></ul></li></ul><h2 id="复习状态"><a href="#复习状态" class="headerlink" title="复习状态"></a>复习状态</h2><h3 id="1-学习效率"><a href="#1-学习效率" class="headerlink" title="1. 学习效率"></a>1. 学习效率</h3><ul><li>总体学习效率较高，每天能够完成计划的学习任务。</li><li>有时会感到疲倦和注意力不集中，需要调整学习时间和方法。</li></ul><h3 id="2-心理状态"><a href="#2-心理状态" class="headerlink" title="2. 心理状态"></a>2. 心理状态</h3><ul><li>心态较为平稳，能够保持积极的学习态度。</li><li>偶尔会感到压力和焦虑，通过运动和休闲活动来缓解。</li></ul><h2 id="反思与改进"><a href="#反思与改进" class="headerlink" title="反思与改进"></a>反思与改进</h2><h3 id="1-改进措施"><a href="#1-改进措施" class="headerlink" title="1. 改进措施"></a>1. 改进措施</h3><ul><li><p><strong>数学:</strong></p><ul><li>加强综合题的练习，特别是对于自己薄弱环节的专项训练。</li><li>提高解题速度，减少粗心错误。</li></ul></li><li><p><strong>英语:</strong></p><ul><li>增加长难句的练习，多做一些专门的练习题。</li><li>强化写作练习，准备更多的写作模板和素材。</li></ul></li><li><p><strong>政治:</strong></p><ul><li>加深对哲学理论和历史事件的理解，可以通过多看一些相关的视频和资料。</li><li>增加背诵的频率和次数，加强记忆。</li></ul></li><li><p><strong>专业课:</strong></p><ul><li>针对细节知识点进行反复记忆和强化练习。</li><li>多做案例分析题，提高答题的条理性和逻辑性。</li></ul></li></ul><h3 id="2-调整计划"><a href="#2-调整计划" class="headerlink" title="2. 调整计划"></a>2. 调整计划</h3><ul><li>根据每天的学习进展和效率，灵活调整复习计划，确保各科复习的均衡。</li><li>保持良好的作息和饮食习惯，确保充足的休息和精力。</li></ul><p>通过这次记录和反思，我对自己的考研复习现状有了更清晰的认识。在接下来的时间里，我会根据这些问题和改进措施</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 个人日记 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 考研复习, 学习, 个人日记, 反思 </tag>
             
         </tags>
       
@@ -198,6 +198,31 @@
     
     
     <entry>
+      <title>杂谈教程</title>
+      <link href="/2024/06/28/ztjc/"/>
+      <url>/2024/06/28/ztjc/</url>
+      
+        <content type="html"><![CDATA[<p>这是我的杂谈教程内容。</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 杂谈教程 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 杂谈, 教程, 技术分享 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>William Wordsworth</title>
       <link href="/2024/06/28/william/"/>
       <url>/2024/06/28/william/</url>
@@ -240,31 +265,6 @@
         <tags>
             
             <tag> 杂谈, 教程, 技能, 知识分享 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>杂谈教程</title>
-      <link href="/2024/06/28/ztjc/"/>
-      <url>/2024/06/28/ztjc/</url>
-      
-        <content type="html"><![CDATA[<p>这是我的杂谈教程内容。</p>]]></content>
-      
-      
-      <categories>
-          
-          <category> 杂谈教程 </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> 杂谈, 教程, 技术分享 </tag>
             
         </tags>
       
@@ -376,9 +376,9 @@
     
     
     <entry>
-      <title>categorier</title>
-      <link href="/categories/index.html"/>
-      <url>/categories/index.html</url>
+      <title>about</title>
+      <link href="/about/index.html"/>
+      <url>/about/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -398,11 +398,11 @@
     
     
     <entry>
-      <title></title>
-      <link href="/css/cat.css"/>
-      <url>/css/cat.css</url>
+      <title>categorier</title>
+      <link href="/categories/index.html"/>
+      <url>/categories/index.html</url>
       
-        <content type="html"><![CDATA[body::-webkit-scrollbar {    width: 0;}.neko {    width: 64px;    height: 64px;    background-image: url("https://bu.dusays.com/2022/07/20/62d812db74be9.png");    position: absolute;    right: 32px;    background-repeat: no-repeat;    background-size: contain;    transform: translateX(50%);    cursor: pointer;    font-family: tzy;    font-weight: 600;    font-size: 16px;    color: #6f42c1;    display: none;}.neko::after {    display: none;    width: 100px;    height: 100px;    background-image: url("https://bu.dusays.com/2022/07/20/62d812d95e6f5.png");    background-size: contain;    z-index: 9999;    position: absolute;    right: 50%;    text-align: center;    line-height: 100px;    top: -115%;}.neko.showMsg::after {    content: attr(data-msg);    display: block;    overflow: hidden;    text-overflow: ellipsis;}.neko:hover::after {    content: attr(data-msg);    display: block;    overflow: hidden;    text-overflow: ellipsis;}.neko.fontColor::after {    color: #333;}/** * @description: 滚动条样式  跟猫二选一 */@media screen and (max-width:992px) {    ::-webkit-scrollbar {        width: 8px !important;        height: 8px !important    }    ::-webkit-scrollbar-track {        border-radius: 2em;    }    ::-webkit-scrollbar-thumb {        background-color: rgb(255 255 255 / .3);        background-image: -webkit-linear-gradient(45deg, rgba(255, 255, 255, 0.1) 25%, transparent 25%, transparent 50%, rgba(255, 255, 255, 0.1) 50%, rgba(255, 255, 255, 0.1) 75%, transparent 75%, transparent);        border-radius: 2em    }    ::-webkit-scrollbar-corner {        background-color: transparent    }}]]></content>
+        <content type="html"><![CDATA[]]></content>
       
     </entry>
     
@@ -414,6 +414,17 @@
       <url>/css/custom.css</url>
       
         <content type="html"><![CDATA[:root {  --trans-light: rgba(255, 255, 255, 0.70);  --trans-dark: rgba(25, 25, 25, 0.6);  --border-style: 1px solid rgb(169, 169, 169);  --backdrop-filter: blur(5px) saturate(150%);}/* 页脚与头图透明 */#footer {    background: transparent !important;  }  #page-header {    background: transparent !important;  }    /* 白天模式遮罩透明 */  #footer::before {    background: transparent !important;  }  #page-header::before {    background: transparent !important;  }    /* 夜间模式遮罩透明 */  [data-theme="dark"] #footer::before {    background: transparent !important;  }  [data-theme="dark"] #page-header::before {    background: transparent !important;  }  @font-face {    /* 为载入的字体取名字(随意) */    font-family: 'YSHST';    /* 字体文件地址(相对或者绝对路径都可以) */    src: url(/font/JinNianYeYaoJiaYouYa-2.ttf);    /* 定义加粗样式(加粗多少) */    font-weight: normal;    /* 定义字体样式(斜体/非斜体) */    font-style: normal;    /* 定义显示样式 */    font-display: block;  }  /* 翻页按钮居中 */  #pagination {    width: 100%;    margin: auto;  }/* 一级菜单居中 */#nav .menus_items {  position: absolute !important;  width: fit-content !important;  left: 50% !important;  transform: translateX(-50%) !important;}/* 子菜单横向展示 */#nav .menus_items .menus_item:hover .menus_item_child {  display: flex !important;}/* 这里的2是代表导航栏的第2个元素，即有子菜单的元素，可以按自己需求修改 */.menus_items .menus_item:nth-child(5) .menus_item_child {  left: -125px;}/* 日间模式不生效 */[data-theme="light"] #site-name,[data-theme="light"] #site-title,[data-theme="light"] #site-subtitle,[data-theme="light"] #post-info {  animation: none;}/* 夜间模式生效 */[data-theme="dark"] #site-name,[data-theme="dark"] #site-title {  animation: light_15px 10s linear infinite;}[data-theme="dark"] #site-subtitle {  animation: light_10px 10s linear infinite;}[data-theme="dark"] #post-info {  animation: light_5px 10s linear infinite;}/* 关键帧描述 */@keyframes light_15px {  0% {    text-shadow: #5636ed 0 0 15px;  }  12.5% {    text-shadow: #11ee5e 0 0 15px;  }  25% {    text-shadow: #f14747 0 0 15px;  }  37.5% {    text-shadow: #f1a247 0 0 15px;  }  50% {    text-shadow: #f1ee47 0 0 15px;  }  50% {    text-shadow: #b347f1 0 0 15px;  }  62.5% {    text-shadow: #002afa 0 0 15px;  }  75% {    text-shadow: #ed709b 0 0 15px;  }  87.5% {    text-shadow: #39c5bb 0 0 15px;  }  100% {    text-shadow: #5636ed 0 0 15px;  }}@keyframes light_10px {  0% {    text-shadow: #5636ed 0 0 10px;  }  12.5% {    text-shadow: #11ee5e 0 0 10px;  }  25% {    text-shadow: #f14747 0 0 10px;  }  37.5% {    text-shadow: #f1a247 0 0 10px;  }  50% {    text-shadow: #f1ee47 0 0 10px;  }  50% {    text-shadow: #b347f1 0 0 10px;  }  62.5% {    text-shadow: #002afa 0 0 10px;  }  75% {    text-shadow: #ed709b 0 0 10px;  }  87.5% {    text-shadow: #39c5bb 0 0 10px;  }  100% {    text-shadow: #5636ed 0 0 10px;  }}@keyframes light_5px {  0% {    text-shadow: #5636ed 0 0 5px;  }  12.5% {    text-shadow: #11ee5e 0 0 5px;  }  25% {    text-shadow: #f14747 0 0 5px;  }  37.5% {    text-shadow: #f1a247 0 0 15px;  }  50% {    text-shadow: #f1ee47 0 0 5px;  }  50% {    text-shadow: #b347f1 0 0 5px;  }  62.5% {    text-shadow: #002afa 0 0 5px;  }  75% {    text-shadow: #ed709b 0 0 5px;  }  87.5% {    text-shadow: #39c5bb 0 0 5px;  }  100% {    text-shadow: #5636ed 0 0 5px;  }}/* 侧边栏个人信息卡片动态渐变色 */#aside-content > .card-widget.card-info {  background: linear-gradient(    -45deg,    #e8d8b9,    #eccec5,    #a3e9eb,    #bdbdf0,    #eec1ea  );  box-shadow: 0 0 5px rgb(66, 68, 68);  position: relative;  background-size: 400% 400%;  -webkit-animation: Gradient 10s ease infinite;  -moz-animation: Gradient 10s ease infinite;  animation: Gradient 10s ease infinite !important;}@-webkit-keyframes Gradient {  0% {    background-position: 0% 50%;  }  50% {    background-position: 100% 50%;  }  100% {    background-position: 0% 50%;  }}@-moz-keyframes Gradient {  0% {    background-position: 0% 50%;  }  50% {    background-position: 100% 50%;  }  100% {    background-position: 0% 50%;  }}@keyframes Gradient {  0% {    background-position: 0% 50%;  }  50% {    background-position: 100% 50%;  }  100% {    background-position: 0% 50%;  }}/* 黑夜模式适配 */[data-theme="dark"] #aside-content > .card-widget.card-info {  background: #191919ee;}/* 个人信息Follow me按钮 */#aside-content > .card-widget.card-info > #card-info-btn {  background-color: #3eb8be;  border-radius: 8px;}/* 鼠标样式 */#cursor {  position: fixed;  width: 16px;  height: 16px;  /* 这里改变跟随的底色 */  background: rgb(8, 52, 164);  border-radius: 8px;  opacity: 0.25;  z-index: 10086;  pointer-events: none;  transition: 0.2s ease-in-out;  transition-property: background, opacity, transform;}#cursor.hidden {  opacity: 0;}#cursor.hover {  opacity: 0.1;  transform: scale(2.5);  -webkit-transform: scale(2.5);  -moz-transform: scale(2.5);  -ms-transform: scale(2.5);  -o-transform: scale(2.5);}#cursor.active {  opacity: 0.5;  transform: scale(0.5);  -webkit-transform: scale(0.5);  -moz-transform: scale(0.5);  -ms-transform: scale(0.5);  -o-transform: scale(0.5);}/* 首页文章卡片 */#recent-posts > .recent-post-item {  background: var(--trans-light);  backdrop-filter: var(--backdrop-filter);  border-radius: 25px;  border: var(--border-style);}/* 首页侧栏卡片 */#aside-content .card-widget {  background: var(--trans-light);  backdrop-filter: var(--backdrop-filter);  border-radius: 18px;  border: var(--border-style);}/* 文章页、归档页、普通页面 */div#post,div#page,div#archive {  background: var(--trans-light);  backdrop-filter: var(--backdrop-filter);  border: var(--border-style);  border-radius: 20px;}/* 导航栏 */#page-header.nav-fixed #nav {  background: rgba(255, 255, 255, 0.75);  backdrop-filter: var(--backdrop-filter);}[data-theme="dark"] #page-header.nav-fixed #nav {  background: rgba(0, 0, 0, 0.7) !important;}/* 夜间模式遮罩 */[data-theme="dark"] #recent-posts > .recent-post-item,[data-theme="dark"] #aside-content .card-widget,[data-theme="dark"] div#post,[data-theme="dark"] div#archive,[data-theme="dark"] div#page {  background: var(--trans-dark);}/* 夜间模式页脚页头遮罩透明 */[data-theme="dark"] #footer::before {  background: transparent !important;}[data-theme="dark"] #page-header::before {  background: transparent !important;}/* 阅读模式 */.read-mode #aside-content .card-widget {  background: rgba(158, 204, 171, 0.5) !important;}.read-mode div#post {  background: rgba(158, 204, 171, 0.5) !important;}/* 夜间模式下的阅读模式 */[data-theme="dark"] .read-mode #aside-content .card-widget {  background: rgba(25, 25, 25, 0.9) !important;  color: #ffffff;}[data-theme="dark"] .read-mode div#post {  background: rgba(25, 25, 25, 0.9) !important;  color: #ffffff;}svg.icon {  width: 1.28em;  height: 1.28em;  vertical-align: -0.15em;  fill: currentColor;  overflow: hidden;}svg.social_icon {  width: 1.20em;  height: 1.20em;  vertical-align: -0.15em;  fill: currentColor;  overflow: hidden;}/*============================*/.pace {-webkit-pointer-events: none;pointer-events: none;-webkit-user-select: none;-moz-user-select: none;user-select: none;}.pace .pace-activity {display: block;position: fixed;z-index: 2000;top: 0;right: 0;width: 300px;height: 300px;background: #29d;-webkit-transition: -webkit-transform 0.3s;transition: transform 0.3s;-webkit-transform: translateX(100%) translateY(-100%) rotate(45deg);transform: translateX(100%) translateY(-100%) rotate(45deg);pointer-events: none;}.pace.pace-active .pace-activity {-webkit-transform: translateX(50%) translateY(-50%) rotate(45deg);transform: translateX(50%) translateY(-50%) rotate(45deg);}.pace .pace-activity::before,.pace .pace-activity::after {-moz-box-sizing: border-box;box-sizing: border-box;position: absolute;bottom: 30px;left: 50%;display: block;border: 5px solid #fff;border-radius: 50%;content: '';}.pace .pace-activity::before {margin-left: -40px;width: 80px;height: 80px;border-right-color: rgba(0, 0, 0, .2);border-left-color: rgba(0, 0, 0, .2);-webkit-animation: pace-theme-corner-indicator-spin 3s linear infinite;animation: pace-theme-corner-indicator-spin 3s linear infinite;}.pace .pace-activity::after {bottom: 50px;margin-left: -20px;width: 40px;height: 40px;border-top-color: rgba(0, 0, 0, .2);border-bottom-color: rgba(0, 0, 0, .2);-webkit-animation: pace-theme-corner-indicator-spin 1s linear infinite;animation: pace-theme-corner-indicator-spin 1s linear infinite;}@-webkit-keyframes pace-theme-corner-indicator-spin {0% { -webkit-transform: rotate(0deg); }100% { -webkit-transform: rotate(359deg); }}@keyframes pace-theme-corner-indicator-spin {0% { transform: rotate(0deg); }100% { transform: rotate(359deg); }}.pace {  -webkit-pointer-events: none;  pointer-events: none;  -webkit-user-select: none;  -moz-user-select: none;  user-select: none;  z-index: 2000;  position: fixed;  margin: auto;  top: 4px;  left: 0;  right: 0;  height: 8px;  border-radius: 8px;  width: 7rem;  background: #eaecf2;  border: 1px #e3e8f7;  overflow: hidden}.pace-inactive .pace-progress {  opacity: 0;  transition: .3s ease-in}.pace .pace-progress {  -webkit-box-sizing: border-box;  -moz-box-sizing: border-box;  -ms-box-sizing: border-box;  -o-box-sizing: border-box;  box-sizing: border-box;  -webkit-transform: translate3d(0, 0, 0);  -moz-transform: translate3d(0, 0, 0);  -ms-transform: translate3d(0, 0, 0);  -o-transform: translate3d(0, 0, 0);  transform: translate3d(0, 0, 0);  max-width: 200px;  position: absolute;  z-index: 2000;  display: block;  top: 0;  right: 100%;  height: 100%;  width: 100%;  /* linear-gradient(to right, #3494e6, #ec6ead) */  background: linear-gradient(to right, #43cea2, #3866ca);  animation: gradient 2s ease infinite;  background-size: 200%}.pace.pace-inactive {  opacity: 0;  transition: .3s;  top: -8px}/*哔哩哔哩视频适配*/.aspect-ratio {  position: relative;  width: 90%;  height: auto;  padding-bottom: 75%;  margin: 3% auto;  text-align: center;}.aspect-ratio iframe {  position: absolute;  width: 100%;  height: 86%;  left: 0;  top: 0;}/* 文章页H1-H6图标样式效果 *//* 控制风车转动速度 4s那里可以自己调节快慢 */h1::before,h2::before,h3::before,h4::before,h5::before,h6::before {  -webkit-animation: ccc 4s linear infinite;  animation: ccc 4s linear infinite;}/* 控制风车转动方向 -1turn 为逆时针转动，1turn 为顺时针转动，相同数字部分记得统一修改 */@-webkit-keyframes ccc {  0% {    -webkit-transform: rotate(0deg);    transform: rotate(0deg);  }  to {    -webkit-transform: rotate(-1turn);    transform: rotate(-1turn);  }}@keyframes ccc {  0% {    -webkit-transform: rotate(0deg);    transform: rotate(0deg);  }  to {    -webkit-transform: rotate(-1turn);    transform: rotate(-1turn);  }}/* 设置风车颜色 */#content-inner.layout h1::before {  color: #ef50a8;  margin-left: -1.55rem;  font-size: 1.3rem;  margin-top: -0.23rem;}#content-inner.layout h2::before {  color: #fb7061;  margin-left: -1.35rem;  font-size: 1.1rem;  margin-top: -0.12rem;}#content-inner.layout h3::before {  color: #ffbf00;  margin-left: -1.22rem;  font-size: 0.95rem;  margin-top: -0.09rem;}#content-inner.layout h4::before {  color: #a9e000;  margin-left: -1.05rem;  font-size: 0.8rem;  margin-top: -0.09rem;}#content-inner.layout h5::before {  color: #57c850;  margin-left: -0.9rem;  font-size: 0.7rem;  margin-top: 0rem;}#content-inner.layout h6::before {  color: #5ec1e0;  margin-left: -0.9rem;  font-size: 0.66rem;  margin-top: 0rem;}/* s设置风车hover动效 6s那里可以自己调节快慢*/#content-inner.layout h1:hover,#content-inner.layout h2:hover,#content-inner.layout h3:hover,#content-inner.layout h4:hover,#content-inner.layout h5:hover,#content-inner.layout h6:hover {  color: var(--theme-color);}#content-inner.layout h1:hover::before,#content-inner.layout h2:hover::before,#content-inner.layout h3:hover::before,#content-inner.layout h4:hover::before,#content-inner.layout h5:hover::before,#content-inner.layout h6:hover::before {  color: var(--theme-color);  -webkit-animation: ccc 6s linear infinite;  animation: ccc 6s linear infinite;}]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title></title>
+      <link href="/css/cat.css"/>
+      <url>/css/cat.css</url>
+      
+        <content type="html"><![CDATA[body::-webkit-scrollbar {    width: 0;}.neko {    width: 64px;    height: 64px;    background-image: url("https://bu.dusays.com/2022/07/20/62d812db74be9.png");    position: absolute;    right: 32px;    background-repeat: no-repeat;    background-size: contain;    transform: translateX(50%);    cursor: pointer;    font-family: tzy;    font-weight: 600;    font-size: 16px;    color: #6f42c1;    display: none;}.neko::after {    display: none;    width: 100px;    height: 100px;    background-image: url("https://bu.dusays.com/2022/07/20/62d812d95e6f5.png");    background-size: contain;    z-index: 9999;    position: absolute;    right: 50%;    text-align: center;    line-height: 100px;    top: -115%;}.neko.showMsg::after {    content: attr(data-msg);    display: block;    overflow: hidden;    text-overflow: ellipsis;}.neko:hover::after {    content: attr(data-msg);    display: block;    overflow: hidden;    text-overflow: ellipsis;}.neko.fontColor::after {    color: #333;}/** * @description: 滚动条样式  跟猫二选一 */@media screen and (max-width:992px) {    ::-webkit-scrollbar {        width: 8px !important;        height: 8px !important    }    ::-webkit-scrollbar-track {        border-radius: 2em;    }    ::-webkit-scrollbar-thumb {        background-color: rgb(255 255 255 / .3);        background-image: -webkit-linear-gradient(45deg, rgba(255, 255, 255, 0.1) 25%, transparent 25%, transparent 50%, rgba(255, 255, 255, 0.1) 50%, rgba(255, 255, 255, 0.1) 75%, transparent 75%, transparent);        border-radius: 2em    }    ::-webkit-scrollbar-corner {        background-color: transparent    }}]]></content>
       
     </entry>
     
@@ -442,11 +453,11 @@
     
     
     <entry>
-      <title>about</title>
-      <link href="/about/index.html"/>
-      <url>/about/index.html</url>
+      <title>留言板</title>
+      <link href="/envelope_comment/index.html"/>
+      <url>/envelope_comment/index.html</url>
       
-        <content type="html"><![CDATA[]]></content>
+        <content type="html"><![CDATA[<p>欢迎在这里留下您的留言！</p>]]></content>
       
     </entry>
     
@@ -469,17 +480,6 @@
       <url>/js/cursor.js</url>
       
         <content type="html"><![CDATA[var CURSOR;Math.lerp = (a, b, n) => (1 - n) * a + n * b;const getStyle = (el, attr) => {    try {        return window.getComputedStyle            ? window.getComputedStyle(el)[attr]            : el.currentStyle[attr];    } catch (e) {}    return "";};class Cursor {    constructor() {        this.pos = {curr: null, prev: null};        this.pt = [];        this.create();        this.init();        this.render();    }    move(left, top) {        this.cursor.style["left"] = `${left}px`;        this.cursor.style["top"] = `${top}px`;    }    create() {        if (!this.cursor) {            this.cursor = document.createElement("div");            this.cursor.id = "cursor";            this.cursor.classList.add("hidden");            document.body.append(this.cursor);        }        var el = document.getElementsByTagName('*');        for (let i = 0; i < el.length; i++)            if (getStyle(el[i], "cursor") == "pointer")                this.pt.push(el[i].outerHTML);        document.body.appendChild((this.scr = document.createElement("style")));        // 这里改变鼠标指针的颜色 由svg生成        this.scr.innerHTML = `* {cursor: url("data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 8 8' width='8px' height='8px'><circle cx='4' cy='4' r='4' opacity='.5'/></svg>") 4 4, auto}`;    }    refresh() {        this.scr.remove();        this.cursor.classList.remove("hover");        this.cursor.classList.remove("active");        this.pos = {curr: null, prev: null};        this.pt = [];        this.create();        this.init();        this.render();    }    init() {        document.onmouseover  = e => this.pt.includes(e.target.outerHTML) && this.cursor.classList.add("hover");        document.onmouseout   = e => this.pt.includes(e.target.outerHTML) && this.cursor.classList.remove("hover");        document.onmousemove  = e => {(this.pos.curr == null) && this.move(e.clientX - 8, e.clientY - 8); this.pos.curr = {x: e.clientX - 8, y: e.clientY - 8}; this.cursor.classList.remove("hidden");};        document.onmouseenter = e => this.cursor.classList.remove("hidden");        document.onmouseleave = e => this.cursor.classList.add("hidden");        document.onmousedown  = e => this.cursor.classList.add("active");        document.onmouseup    = e => this.cursor.classList.remove("active");    }    render() {        if (this.pos.prev) {            this.pos.prev.x = Math.lerp(this.pos.prev.x, this.pos.curr.x, 0.15);            this.pos.prev.y = Math.lerp(this.pos.prev.y, this.pos.curr.y, 0.15);            this.move(this.pos.prev.x, this.pos.prev.y);        } else {            this.pos.prev = this.pos.curr;        }        requestAnimationFrame(() => this.render());    }}(() => {    CURSOR = new Cursor();    // 需要重新获取列表时，使用 CURSOR.refresh()})();]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>留言板</title>
-      <link href="/envelope_comment/index.html"/>
-      <url>/envelope_comment/index.html</url>
-      
-        <content type="html"><![CDATA[<p>欢迎在这里留下您的留言！</p>]]></content>
       
     </entry>
     
@@ -519,28 +519,6 @@
     
     
     <entry>
-      <title>link</title>
-      <link href="/link/index.html"/>
-      <url>/link/index.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>tags</title>
-      <link href="/tags/index.html"/>
-      <url>/tags/index.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>movies</title>
       <link href="/movies/index.html"/>
       <url>/movies/index.html</url>
@@ -552,11 +530,33 @@
     
     
     <entry>
+      <title>link</title>
+      <link href="/link/index.html"/>
+      <url>/link/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>music</title>
       <link href="/music/index.html"/>
       <url>/music/index.html</url>
       
         <content type="html"><![CDATA[<div id="aplayer-oSEOhviA" class="aplayer aplayer-tag-marker meting-tag-marker" data-id="4895239160" data-server="netease" data-type="playlist" data-mode="random" data-autoplay="false" data-listmaxheight="340px" data-preload="auto" data-theme="#e3f2f5" data-volume="0.4" mutex="true"></div>]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>tags</title>
+      <link href="/tags/index.html"/>
+      <url>/tags/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
       
     </entry>
     
